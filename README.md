@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-💫 About Me:<br>🚀 Backend Developer & AI Enthusiast<br>🎓 Student at Politeknik Negeri Batam<br>💻 Passionate about solving real-world problems through code<br><br>👨‍💻 Currently Focused On:<br><br>Developing scalable backend systems with NestJS, Laravel, and Flask<br>Integrating AI capabilities into web applications<br><br>💡 Interests:<br><br>Artificial Intelligence & Machine Learning<br>Web Application Architecture & Optimization
+🚀 Backend Developer & AI Enthusiast<br>🎓 Student at Politeknik Negeri Batam<br>💻 Passionate about solving real-world problems through code<br><br>👨‍💻 Currently Focused On:<br><br>Developing scalable backend systems with NestJS, Laravel, and Flask<br>Integrating AI capabilities into web applications<br><br>💡 Interests:<br><br>Artificial Intelligence & Machine Learning<br>Web Application Architecture & Optimization
 
 
 ## 🌐 Socials:
