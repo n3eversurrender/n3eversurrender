@@ -1,3 +1,8 @@
+![Header](./zaini.png)
+
+
+
+
 # 💫 About Me:
 M Zaini Ridha<br><br>🚀 AI Enthusiast | Developer | Student at Politeknik Negeri Batam<br>🔧 Tech Stack: PHP, JavaScript, Python<br>🔍 Frameworks: Laravel, React.js, Node.js,<br>🛠️ Tools: Git, Cisco Packet Tracer<br>🎯 Currently working on: LearnTrack - A web-based LMS for skills development and progress tracking.<br><br>📚 Passionate about:<br><br>    AI technology and its applications<br>    Creating innovative solutions for education and industry<br>    Exploring new trends and technologies<br><br>🌐 Projects & Contributions:<br><br>    LearnTrack - An LMS with AI-powered features<br>    Converting desktop-based apps into web-based solutions
 
